@@ -29,7 +29,7 @@ If you don't have SteamCMD installed on your system, you can install it with the
 ## 2. Download the Script
 
 Clone the repository to your server:
-> git clone https://github.com/yourusername/dayz-mod-install.git
+> git clone https://github.com/DayZ-Balkan/dayz-mod-install.git
 > 
 > cd dayz-mod-install
 
